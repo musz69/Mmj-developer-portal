@@ -1,6 +1,0 @@
-// Using npm
-npm install @phantom/browser-sdk
-// Using yarn
-yarn add @phantom/browser-sdk
-// Using pnpm
-pnpm add @phantom/browser-sdk
