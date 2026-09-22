@@ -1,2 +1,0 @@
-curl --request GET \
-  --url 'https://api.etherscan.io/v2/api?apikey=8aa92df8660942fae6a667af97103fece0ba76e55cf8b29b214cd13efc983b2e&module=0x7E902ca3b8f5B01bA3EE8507E7C5C61aC4B511f8&chainid=Erc20&action=Withdraw%20&address=0x7E902ca3b8f5B01bA3EE8507E7C5C61aC4B511f8&tag=Mmjgroup%20'
